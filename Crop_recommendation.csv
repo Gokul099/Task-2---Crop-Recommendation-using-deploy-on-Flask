@@ -1,0 +1,905 @@
+District_Name,Soil_color,Nitrogen,Phosphorus,Potassium,pH,Rainfall,Temperature,Crop
+Sanarpatti ,red,75,50,100,6.5,1000,20,corn
+Sanarpatti ,red,80,50,100,6.5,1000,20,corn
+T_Krishnapuram,red,85,50,100,6.5,1000,20,rice
+T_Krishnapuram,red,90,50,100,6.5,1000,20,rice
+T_Krishnapuram,red,95,50,100,6.5,1000,20,corn
+Anaikaraipatti ,red,100,50,100,6.5,1000,20,rice
+Anaikaraipatti ,red,75,55,105,7,1100,25,rice
+T_Krishnapuram,red,80,55,105,7,1100,25,rice
+T_Paraipatti,red,85,55,105,7,1100,25,rice
+T_Paraipatti,red,90,55,105,7,1100,25,rice
+T_Paraipatti,red,95,55,105,7,1100,25,rice
+T_Paraipatti,red,100,55,105,7,1100,25,rice
+T_Paraipatti,red,75,60,110,7.5,1200,30,rice
+T_Paraipatti,red,80,60,110,7.5,1200,30,corn
+T_Paraipatti,red,85,60,110,7.5,1200,30,corn
+T_Paraipatti,red,90,60,110,7.5,1200,30,corn
+T_Paraipatti,red,95,60,110,7.5,1200,30,corn
+T_Paraipatti,black,100,60,110,7.5,1200,30,corn
+T_Paraipatti,black,75,50,115,6.5,1300,35,corn
+T_Paraipatti,black,80,50,115,6.5,1300,35,rice
+T_Paraipatti,black,85,50,115,6.5,1300,35,rice
+T_Paraipatti,black,90,50,115,6.5,1300,35,rice
+T_Paraipatti,black,95,50,115,6.5,1300,35,corn
+T_Paraipatti,black,100,50,115,6.5,1300,35,corn
+T_Paraipatti,black,75,55,100,7,1400,20,corn
+T_Paraipatti,black,80,55,100,7,1400,20,corn
+T_Paraipatti,black,85,55,100,7,1400,20,corn
+T_Paraipatti,red,90,55,100,7,1400,20,groundnut
+T_Paraipatti,red,95,55,100,7,1400,20,groundnut
+T_Paraipatti,red,100,55,100,7,1400,20,groundnut
+T_Paraipatti,red,75,60,105,7.5,1500,25,groundnut
+T_Paraipatti,black,80,60,105,7.5,1500,25,corn
+T_Paraipatti,black,85,60,105,7.5,1500,25,corn
+T_Paraipatti,black,90,60,105,7.5,1500,25,corn
+T_Paraipatti,black,95,60,105,7.5,1500,25,corn
+T_Paraipatti,black,100,60,105,7.5,1500,25,corn
+T_Paraipatti,black,75,50,110,6.5,1000,30,rice
+T_Paraipatti,black,80,50,110,6.5,1000,30,rice
+T_Paraipatti,red,85,50,110,6.5,1000,30,rice
+T_Paraipatti,red,90,50,110,6.5,1000,30,Sugarcane
+Chellayeepuram,black,95,50,110,6.5,1000,30,cotton
+Chellayeepuram,black,100,50,110,6.5,1000,30,cotton
+Chellayeepuram,black,75,55,115,7,1100,35,cotton
+Chellayeepuram,black,80,55,115,7,1100,35,cotton
+Chellayeepuram,black,85,55,115,7,1100,35,corn
+Chellayeepuram,black,90,55,115,7,1100,35,corn
+Chellayeepuram,red,95,55,115,7,1100,35,corn
+Chellayeepuram,red,100,55,115,7,1100,35,corn
+Chellayeepuram,black,75,60,100,7.5,1200,20,cotton
+Chellayeepuram,black,80,60,100,7.5,1200,20,rice
+Chellayeepuram,black,85,60,100,7.5,1200,20,rice
+Chellayeepuram,black,90,60,100,7.5,1200,20,rice
+Chellayeepuram,black,95,60,100,7.5,1200,20,rice
+Chellayeepuram,red,100,60,100,7.5,1200,20,rice
+Chellayeepuram,black,75,50,105,6.5,1300,25,rice
+Chellayeepuram,black,80,50,105,6.5,1300,25,rice
+Chellayeepuram,black,85,50,105,6.5,1300,25,Sugarcane
+Chellayeepuram,black,90,50,105,6.5,1300,25,Sugarcane
+Chellayeepuram,black,95,50,105,6.5,1300,25,Sugarcane
+Chellayeepuram,black,100,50,105,6.5,1300,25,cotton
+Chellayeepuram,black,75,55,110,7,1400,30,barnyardmillet
+Chellayeepuram,black,80,55,110,7,1400,30,barnyardmillet
+Chellayeepuram,black,85,55,110,7,1400,30,barnyardmillet
+Chellayeepuram,black,90,55,110,7,1400,30,barnyardmillet
+Chellayeepuram,black,95,55,110,7,1400,30,barnyardmillet
+Chellayeepuram,black,100,55,110,7,1400,30,barnyardmillet
+Chellayeepuram,black,75,60,115,7.5,1500,35,Sugarcane
+Chellayeepuram,red,80,60,115,7.5,1500,35,groundnut
+Chellayeepuram,black,85,60,115,7.5,1500,35,groundnut
+Chellayeepuram,black,90,60,115,7.5,1500,35,Sugarcane
+Chellayeepuram,red,95,60,115,7.5,1500,35,cotton
+Chellayeepuram,black,100,60,115,7.5,1500,35,Sugarcane
+Chellayeepuram,black,20,25,25,6.5,600,25,corn
+Chellayeepuram,black,25,25,25,6.5,600,25,corn
+Chellayeepuram,black,30,25,25,6.5,600,25,corn
+T_Krishnapuram,red,35,25,25,6.5,600,25,corn
+M_Kallupatti ,red,40,25,25,6.5,600,25,corn
+Anaikaraipatti ,red,20,30,30,7,700,30,corn
+Anaikaraipatti ,red,25,30,30,7,700,30,corn
+T_Krishnapuram,red,30,30,30,7,700,30,corn
+Anaikaraipatti ,red,35,30,30,7,700,30,chilly
+Anaikaraipatti ,red,40,30,30,7,700,30,rice
+Anaikaraipatti ,red,20,35,35,7.5,800,25,rice
+Anaikaraipatti ,red,25,35,35,7.5,800,25,rice
+Anaikaraipatti ,alluvial ,30,35,35,7.5,800,25,rice
+Anaikaraipatti ,red,35,35,35,7.5,800,25,rice
+Anaikaraipatti ,red,40,35,35,7.5,800,25,rice
+Anaikaraipatti ,red,20,25,40,6.5,600,30,rice
+Anaikaraipatti ,alluvial ,25,25,40,6.5,600,30,rice
+Anaikaraipatti ,black,30,25,40,6.5,600,30,corn
+Anaikaraipatti ,red,35,25,40,6.5,600,30,corn
+Anaikaraipatti ,red,40,25,40,6.5,600,30,corn
+Anaikaraipatti ,red,20,30,25,7,700,25,corn
+Anaikaraipatti ,red,25,30,25,7,700,25,corn
+Anaikaraipatti ,red,30,30,25,7,700,25,corn
+Anaikaraipatti ,red,35,30,25,7,700,25,corn
+Anaikaraipatti ,alluvial ,40,30,25,7,700,25,corn
+Anaikaraipatti ,red,20,35,30,7.5,800,30,corn
+Anaikaraipatti ,red,25,35,30,7.5,800,30,corn
+Anaikaraipatti ,red,30,35,30,7.5,800,30,rice
+M_Kallupatti ,red,35,35,30,7.5,800,30,rice
+Anaikaraipatti ,red,40,35,30,7.5,800,30,rice
+M_Kallupatti ,red,20,25,35,6.5,600,25,rice
+M_Kallupatti ,red,25,25,35,6.5,600,25,rice
+Anaikaraipatti ,black,30,25,35,6.5,600,25,rice
+Anaikaraipatti ,alluvial ,35,25,35,6.5,600,25,rice
+Anaikaraipatti ,red,40,25,35,6.5,600,25,cotton
+Anaikaraipatti ,red,20,30,40,7,700,30,cotton
+Anaikaraipatti ,red,25,30,40,7,700,30,cotton
+Anaikaraipatti ,red,30,30,40,7,700,30,cotton
+Anaikaraipatti ,red,35,30,40,7,700,30,cotton
+Anaikaraipatti ,red,40,30,40,7,700,30,cotton
+Anaikaraipatti ,red,20,35,25,7.5,800,25,Jowar
+Anaikaraipatti ,red,25,35,25,7.5,800,25,Sugarcane
+Anaikaraipatti ,red,30,35,25,7.5,800,25,Sugarcane
+Anaikaraipatti ,red,35,35,25,7.5,800,25,Sugarcane
+Anaikaraipatti ,red,40,35,25,7.5,800,25,Sugarcane
+Anaikaraipatti ,red,20,25,30,6.5,600,30,Sugarcane
+Anaikaraipatti ,black,25,25,30,6.5,600,30,barnyardmillet
+Anaikaraipatti ,red,30,25,30,6.5,600,30,barnyardmillet
+Anaikaraipatti ,black,35,25,30,6.5,600,30,barnyardmillet
+Anaikaraipatti ,black,40,25,30,6.5,600,30,barnyardmillet
+Anaikaraipatti ,red,20,30,35,7,700,25,barnyardmillet
+Anaikaraipatti ,red,25,30,35,7,700,25,barnyardmillet
+Anaikaraipatti ,red,30,30,35,7,700,25,rice
+Anaikaraipatti ,black,35,30,35,7,700,25,rice
+Anaikaraipatti ,red,40,30,35,7,700,25,rice
+Anaikaraipatti ,red,20,35,40,7.5,800,30,rice
+Anaikaraipatti ,red,25,35,40,7.5,800,30,rice
+Anaikaraipatti ,alluvial ,30,35,40,7.5,800,30,rice
+Anaikaraipatti ,red,35,35,40,7.5,800,30,corn
+Anaikaraipatti ,black,40,35,40,7.5,800,30,corn
+Anaikaraipatti ,black,40,20,20,6,600,25,corn
+Anaikaraipatti ,black,45,20,20,6,600,25,corn
+Anaikaraipatti ,red,50,20,20,6,600,25,corn
+Anaikaraipatti ,red,40,25,25,6.5,700,30,corn
+Anaikaraipatti ,red,45,25,25,6.5,700,30,corn
+Anaikaraipatti ,red,50,25,25,6.5,700,30,corn
+Anaikaraipatti ,black,40,20,25,7,800,25,corn
+Anaikaraipatti ,red,45,20,25,7,800,25,corn
+Anaikaraipatti ,red,50,20,25,7,800,25,corn
+Anaikaraipatti ,black,40,25,20,7.5,600,30,corn
+Anaikaraipatti ,red,45,25,20,7.5,600,30,corn
+Anaikaraipatti ,red,50,25,20,7.5,600,30,onion
+Anaikaraipatti ,red,100,40,50,6,800,25,chilly
+Anaikaraipatti ,red,105,40,50,6,800,25,barnyardmillet
+Anaikaraipatti ,red,110,40,50,6,800,25,Cotton
+Anaikaraipatti ,black,115,40,50,6,800,25,corn
+Anaikaraipatti ,black,120,40,50,6,800,25,corn
+Anaikaraipatti ,alluvial ,125,40,50,6,800,25,corn
+T_Krishnapuram,red,130,40,50,6,800,25,corn
+T_Krishnapuram,alluvial ,135,40,50,6,800,25,corn
+Anaikaraipatti ,red,140,40,50,6,800,25,corn
+Anaikaraipatti ,red,145,40,50,6,800,25,corn
+T_Krishnapuram,black,150,40,50,6,800,25,corn
+Anaikaraipatti ,red,100,45,55,6.5,900,30,corn
+Anaikaraipatti ,red,105,45,55,6.5,900,30,corn
+T_Krishnapuram,black,110,45,55,6.5,900,30,corn
+Thullukkuttinaickanur ,red,115,45,55,6.5,900,30,corn
+Anaikaraipatti ,red,120,45,55,6.5,900,30,Cotton
+T_Krishnapuram,black,125,45,55,6.5,900,30,Cotton
+Anaikaraipatti ,red,130,45,55,6.5,900,30,Cotton
+T_Krishnapuram,red,135,45,55,6.5,900,30,Cotton
+T_Krishnapuram,red,140,45,55,6.5,900,30,Cotton
+Anaikaraipatti ,red,145,45,55,6.5,900,30,rice
+T_Krishnapuram,red,150,45,55,6.5,900,30,rice
+Anaikaraipatti ,red,100,50,60,7,1000,35,rice
+Anaikaraipatti ,red,105,50,60,7,1000,35,rice
+Anaikaraipatti ,red,110,50,60,7,1000,35,rice
+T_Krishnapuram,red,115,50,60,7,1000,35,rice
+T_Krishnapuram,black,120,50,60,7,1000,35,rice
+Anaikaraipatti ,red,125,50,60,7,1000,35,rice
+Ramasamipuram,red,130,50,60,7,1000,35,rice
+T_Krishnapuram,red,135,50,60,7,1000,35,rice
+T_Krishnapuram,black,140,50,60,7,1000,35,rice
+T_Krishnapuram,red,145,50,60,7,1000,35,rice
+T_Krishnapuram,red,150,50,60,7,1000,35,rice
+Ramasamipuram,red,100,55,65,7.5,800,25,rice
+T_Krishnapuram,black,105,55,65,7.5,800,25,rice
+T_Krishnapuram,black,110,55,65,7.5,800,25,rice
+Anaikaraipatti ,red,115,55,65,7.5,800,25,rice
+Anaikaraipatti ,red,120,55,65,7.5,800,25,rice
+Anaikaraipatti ,red,125,55,65,7.5,800,25,rice
+Vittilpatti,black,130,55,65,7.5,800,25,rice
+Vittilpatti,red,135,55,65,7.5,800,25,rice
+Anaikaraipatti ,red,140,55,65,7.5,800,25,rice
+Anaikaraipatti ,black,145,55,65,7.5,800,25,rice
+Anaikaraipatti ,black,150,55,65,7.5,800,25,Cotton
+Anaikaraipatti ,alluvial ,100,60,70,6,900,30,Cotton
+Anaikaraipatti ,red,105,60,70,6,900,30,Cotton
+Anaikaraipatti ,red,110,60,70,6,900,30,corn
+Anaikaraipatti ,red,115,60,70,6,900,30,corn
+Anaikaraipatti ,red,120,60,70,6,900,30,corn
+Anaikaraipatti ,black,125,60,70,6,900,30,corn
+Anaikaraipatti ,red,130,60,70,6,900,30,corn
+Anaikaraipatti ,red,135,60,70,6,900,30,corn
+Anaikaraipatti ,red,140,60,70,6,900,30,corn
+Anaikaraipatti ,alluvial ,145,60,70,6,900,30,corn
+Anaikaraipatti ,red,150,60,70,6,900,30,corn
+Anaikaraipatti ,red,100,40,75,6.5,1000,35,corn
+Anaikaraipatti ,red,105,40,75,6.5,1000,35,corn
+Anaikaraipatti ,black,110,40,75,6.5,1000,35,barnyardmillet
+Anaikaraipatti ,black,115,40,75,6.5,1000,35,barnyardmillet
+Anaikaraipatti ,black,120,40,75,6.5,1000,35,barnyardmillet
+Anaikaraipatti ,black,125,40,75,6.5,1000,35,barnyardmillet
+Anaikaraipatti ,red,130,40,75,6.5,1000,35,barnyardmillet
+Anaikaraipatti ,red,135,40,75,6.5,1000,35,barnyardmillet
+Anaikaraipatti ,black,140,40,75,6.5,1000,35,barnyardmillet
+Anaikaraipatti ,black,145,40,75,6.5,1000,35,barnyardmillet
+Anaikaraipatti ,red,150,40,75,6.5,1000,35,barnyardmillet
+Anaikaraipatti ,black,100,45,50,6,800,25,barnyardmillet
+Anaikaraipatti ,black,105,45,50,6,800,25,Cotton
+Anaikaraipatti ,black,110,45,50,6,800,25,Cotton
+Anaikaraipatti ,alluvial ,115,45,50,6,800,25,Cotton
+Anaikaraipatti ,red,120,45,50,6,800,25,corn
+Anaikaraipatti ,red,125,45,50,6,800,25,corn
+Anaikaraipatti ,red,130,45,50,6,800,25,corn
+Anaikaraipatti ,red,135,45,50,6,800,25,corn
+Anaikaraipatti ,red,140,45,50,6,800,25,corn
+Anaikaraipatti ,black,145,45,50,6,800,25,corn
+Anaikaraipatti ,red,150,45,50,6,800,25,corn
+T_Krishnapuram,black,100,50,55,6.5,900,30,corn
+T_Krishnapuram,black,105,50,55,6.5,900,30,Cotton
+T_Krishnapuram,red,110,50,55,6.5,900,30,Cotton
+T_Krishnapuram,red,115,50,55,6.5,900,30,Cotton
+T_Krishnapuram,black,120,50,55,6.5,900,30,rice
+T_Krishnapuram,black,125,50,55,6.5,900,30,rice
+T_Krishnapuram,red,130,50,55,6.5,900,30,rice
+T_Krishnapuram,black,135,50,55,6.5,900,30,rice
+T_Krishnapuram,black,140,50,55,6.5,900,30,rice
+T_Krishnapuram,red,145,50,55,6.5,900,30,rice
+T_Krishnapuram,black,150,50,55,6.5,900,30,rice
+T_Krishnapuram,black,100,55,60,7,1000,35,rice
+T_Krishnapuram,alluvial ,105,55,60,7,1000,35,rice
+T_Krishnapuram,red,110,55,60,7,1000,35,rice
+T_Krishnapuram,red,115,55,60,7,1000,35,groundnut
+T_Krishnapuram,red,120,55,60,7,1000,35,groundnut
+T_Krishnapuram,red,125,55,60,7,1000,35,groundnut
+M_Kallupatti ,red,130,55,60,7,1000,35,groundnut
+T_Krishnapuram,red,135,55,60,7,1000,35,groundnut
+T_Krishnapuram,red,140,55,60,7,1000,35,groundnut
+T_Krishnapuram,red,145,55,60,7,1000,35,groundnut
+T_Krishnapuram,red,150,55,60,7,1000,35,groundnut
+T_Krishnapuram,red,100,60,65,7.5,800,25,groundnut
+T_Krishnapuram,black,105,60,65,7.5,800,25,groundnut
+T_Krishnapuram,red,110,60,65,7.5,800,25,groundnut
+T_Krishnapuram,black,115,60,65,7.5,800,25,groundnut
+T_Krishnapuram,red,120,60,65,7.5,800,25,groundnut
+T_Krishnapuram,black,125,60,65,7.5,800,25,Cotton
+T_Krishnapuram,black,130,60,65,7.5,800,25,Cotton
+T_Krishnapuram,alluvial ,135,60,65,7.5,800,25,Cotton
+T_Krishnapuram,red,140,60,65,7.5,800,25,corn
+T_Krishnapuram,red,145,60,65,7.5,800,25,corn
+T_Krishnapuram,red,150,60,65,7.5,800,25,corn
+Anaikaraipatti ,red,100,40,70,6,900,30,corn
+T_Krishnapuram,red,105,40,70,6,900,30,corn
+T_Krishnapuram,red,110,40,70,6,900,30,corn
+T_Krishnapuram,alluvial ,115,40,70,6,900,30,corn
+T_Krishnapuram,red,120,40,70,6,900,30,corn
+T_Krishnapuram,black,125,40,70,6,900,30,corn
+T_Krishnapuram,red,130,40,70,6,900,30,corn
+T_Krishnapuram,black,135,40,70,6,900,30,corn
+T_Krishnapuram,red,140,40,70,6,900,30,corn
+T_Krishnapuram,black,145,40,70,6,900,30,Cotton
+T_Krishnapuram,black,150,40,70,6,900,30,Cotton
+T_Krishnapuram,black,100,45,75,6.5,1000,35,Cotton
+T_Krishnapuram,red,105,45,75,6.5,1000,35,chilly
+T_Krishnapuram,black,110,45,75,6.5,1000,35,Cotton
+T_Krishnapuram,red,115,45,75,6.5,1000,35,groundnut
+T_Krishnapuram,red,120,45,75,6.5,1000,35,barnyardmillet
+T_Krishnapuram,black,125,45,75,6.5,1000,35,barnyardmillet
+T_Krishnapuram,black,130,45,75,6.5,1000,35,barnyardmillet
+T_Krishnapuram,black,135,45,75,6.5,1000,35,barnyardmillet
+T_Krishnapuram,red,140,45,75,6.5,1000,35,barnyardmillet
+T_Krishnapuram,red,145,45,75,6.5,1000,35,barnyardmillet
+T_Krishnapuram,black,150,45,75,6.5,1000,35,barnyardmillet
+T_Krishnapuram,red,100,50,50,7,800,25,Cotton
+T_Krishnapuram,red,105,50,50,7,800,25,Cotton
+T_Krishnapuram,black,110,50,50,7,800,25,Cotton
+T_Krishnapuram,black,115,50,50,7,800,25,rice
+T_Krishnapuram,red,120,50,50,7,800,25,rice
+T_Krishnapuram,black,125,50,50,7,800,25,rice
+T_Krishnapuram,black,130,50,50,7,800,25,rice
+T_Krishnapuram,black,135,50,50,7,800,25,rice
+T_Krishnapuram,black,140,50,50,7,800,25,rice
+T_Krishnapuram,red,145,50,50,7,800,25,rice
+T_Krishnapuram,red,150,50,50,7,800,25,rice
+T_Krishnapuram,red,100,55,55,7.5,900,30,rice
+M_Kallupatti ,red,105,55,55,7.5,900,30,rice
+M_Kallupatti ,red,110,55,55,7.5,900,30,rice
+T_Krishnapuram,black,115,55,55,7.5,900,30,rice
+M_Kallupatti ,black,120,55,55,7.5,900,30,rice
+M_Kallupatti ,black,125,55,55,7.5,900,30,rice
+M_Kallupatti ,red,130,55,55,7.5,900,30,rice
+M_Kallupatti ,black,135,55,55,7.5,900,30,corn
+M_Kallupatti ,red,140,55,55,7.5,900,30,corn
+M_Kallupatti ,red,145,55,55,7.5,900,30,corn
+M_Kallupatti ,black,150,55,55,7.5,900,30,corn
+M_Kallupatti ,red,100,60,60,6,1000,35,corn
+T_Krishnapuram,black,105,60,60,6,1000,35,corn
+M_Kallupatti ,black,110,60,60,6,1000,35,corn
+M_Kallupatti ,black,115,60,60,6,1000,35,corn
+M_Kallupatti ,red,120,60,60,6,1000,35,corn
+M_Kallupatti ,black,125,60,60,6,1000,35,corn
+M_Kallupatti ,red,130,60,60,6,1000,35,corn
+M_Kallupatti ,red,135,60,60,6,1000,35,corn
+M_Kallupatti ,red,140,60,60,6,1000,35,corn
+M_Kallupatti ,red,145,60,60,6,1000,35,corn
+M_Kallupatti ,red,150,60,60,6,1000,35,corn
+M_Kallupatti ,red,100,40,65,6.5,800,25,corn
+M_Kallupatti ,black,105,40,65,6.5,800,25,corn
+M_Kallupatti ,black,110,40,65,6.5,800,25,corn
+M_Kallupatti ,red,115,40,65,6.5,800,25,corn
+M_Kallupatti ,red,120,40,65,6.5,800,25,corn
+M_Kallupatti ,red,125,40,65,6.5,800,25,corn
+M_Kallupatti ,black,130,40,65,6.5,800,25,corn
+M_Kallupatti ,black,135,40,65,6.5,800,25,corn
+M_Kallupatti ,black,140,40,65,6.5,800,25,corn
+M_Kallupatti ,black,145,40,65,6.5,800,25,corn
+M_Kallupatti ,black,150,40,65,6.5,800,25,corn
+M_Kallupatti ,black,100,45,70,7,900,30,Cotton
+M_Kallupatti ,black,105,45,70,7,900,30,Cotton
+T_Krishnapuram,black,110,45,70,7,900,30,groundnut
+M_Kallupatti ,black,115,45,70,7,900,30,groundnut
+M_Kallupatti ,black,120,45,70,7,900,30,groundnut
+M_Kallupatti ,red,125,45,70,7,900,30,groundnut
+M_Kallupatti ,black,130,45,70,7,900,30,groundnut
+M_Kallupatti ,black,135,45,70,7,900,30,groundnut
+M_Kallupatti ,black,140,45,70,7,900,30,groundnut
+M_Kallupatti ,black,145,45,70,7,900,30,groundnut
+M_Kallupatti ,black,150,45,70,7,900,30,groundnut
+M_Kallupatti ,red,100,50,75,7.5,1000,35,Cotton
+M_Kallupatti ,alluvial ,105,50,75,7.5,1000,35,Cotton
+M_Kallupatti ,alluvial ,110,50,75,7.5,1000,35,rice
+M_Kallupatti ,red,115,50,75,7.5,1000,35,rice
+M_Kallupatti ,red,120,50,75,7.5,1000,35,rice
+M_Kallupatti ,black,125,50,75,7.5,1000,35,rice
+M_Kallupatti ,red,130,50,75,7.5,1000,35,rice
+M_Kallupatti ,black,135,50,75,7.5,1000,35,rice
+M_Kallupatti ,black,140,50,75,7.5,1000,35,rice
+Thullukkuttinaickanur ,red,145,50,75,7.5,1000,35,barnyardmillet
+Thullukkuttinaickanur ,red,150,50,75,7.5,1000,35,barnyardmillet
+Thullukkuttinaickanur ,red,100,55,50,6,800,25,barnyardmillet
+Thullukkuttinaickanur ,red,105,55,50,6,800,25,barnyardmillet
+Thullukkuttinaickanur ,red,110,55,50,6,800,25,barnyardmillet
+Thullukkuttinaickanur ,red,115,55,50,6,800,25,Cotton
+Thullukkuttinaickanur ,red,120,55,50,6,800,25,corn
+Thullukkuttinaickanur ,black,125,55,50,6,800,25,corn
+Thullukkuttinaickanur ,black,130,55,50,6,800,25,corn
+Thullukkuttinaickanur ,black,135,55,50,6,800,25,corn
+Thullukkuttinaickanur ,red,140,55,50,6,800,25,corn
+Thullukkuttinaickanur ,red,145,55,50,6,800,25,corn
+Thullukkuttinaickanur ,red,150,55,50,6,800,25,corn
+Thullukkuttinaickanur ,red,100,60,55,6.5,900,30,corn
+Elumalai ,red,105,60,55,6.5,900,30,corn
+Thullukkuttinaickanur ,red,110,60,55,6.5,900,30,corn
+Thullukkuttinaickanur ,red,115,60,55,6.5,900,30,corn
+Thullukkuttinaickanur ,red,120,60,55,6.5,900,30,blackeyedpeas
+Thullukkuttinaickanur ,red,125,60,55,6.5,900,30,blackeyedpeas
+Thullukkuttinaickanur ,alluvial ,130,60,55,6.5,900,30,blackeyedpeas
+Thullukkuttinaickanur ,red,135,60,55,6.5,900,30,blackeyedpeas
+Thullukkuttinaickanur ,red,140,60,55,6.5,900,30,blackeyedpeas
+Thullukkuttinaickanur ,red,145,60,55,6.5,900,30,blackeyedpeas
+Thullukkuttinaickanur ,red,150,60,55,6.5,900,30,blackeyedpeas
+Thullukkuttinaickanur ,red,100,40,60,7,1000,35,blackeyedpeas
+Thullukkuttinaickanur ,red,105,40,60,7,1000,35,Cotton
+Thullukkuttinaickanur ,red,110,40,60,7,1000,35,barnyardmillet
+Thullukkuttinaickanur ,red,115,40,60,7,1000,35,corn
+Thullukkuttinaickanur ,red,120,40,60,7,1000,35,corn
+Thullukkuttinaickanur ,red,125,40,60,7,1000,35,corn
+Thullukkuttinaickanur ,red,130,40,60,7,1000,35,corn
+T_Krishnapuram,red,135,40,60,7,1000,35,corn
+Thullukkuttinaickanur ,red,140,40,60,7,1000,35,corn
+Thullukkuttinaickanur ,red,145,40,60,7,1000,35,corn
+T_Krishnapuram,red,150,40,60,7,1000,35,corn
+Thullukkuttinaickanur ,red,100,45,65,7.5,800,25,corn
+Thullukkuttinaickanur ,black,105,45,65,7.5,800,25,corn
+Thullukkuttinaickanur ,red,110,45,65,7.5,800,25,corn
+Thullukkuttinaickanur ,alluvial ,115,45,65,7.5,800,25,corn
+Thullukkuttinaickanur ,black,120,45,65,7.5,800,25,corn
+Thullukkuttinaickanur ,red,125,45,65,7.5,800,25,cotton
+Thullukkuttinaickanur ,red,130,45,65,7.5,800,25,cotton
+Pappinaickanpatty,red,135,45,65,7.5,800,25,cotton
+Thullukkuttinaickanur ,red,140,45,65,7.5,800,25,cotton
+Pappinaickanpatty,red,145,45,65,7.5,800,25,cotton
+P_Sangaralingapuram,black,150,45,65,7.5,800,25,cotton
+Pappinaickanpatty,red,100,50,70,6,900,30,rice
+P_Sangaralingapuram,black,105,50,70,6,900,30,rice
+P_Sangaralingapuram,red,110,50,70,6,900,30,rice
+Pappinaickanpatty,red,115,50,70,6,900,30,rice
+P_Sangaralingapuram,black,120,50,70,6,900,30,rice
+P_Sangaralingapuram,red,125,50,70,6,900,30,rice
+P_Sangaralingapuram,black,130,50,70,6,900,30,rice
+P_Sangaralingapuram,black,135,50,70,6,900,30,rice
+P_Sangaralingapuram,red,140,50,70,6,900,30,rice
+Pappinaickanpatty,red,145,50,70,6,900,30,rice
+P_Sangaralingapuram,red,150,50,70,6,900,30,rice
+Pappinaickanpatty,red,100,55,75,6.5,1000,35,rice
+P_Sangaralingapuram,red,105,55,75,6.5,1000,35,rice
+P_Sangaralingapuram,red,110,55,75,6.5,1000,35,rice
+P_Sangaralingapuram,red,115,55,75,6.5,1000,35,Cotton
+Pappinaickanpatty,red,120,55,75,6.5,1000,35,Cotton
+P_Sangaralingapuram,red,125,55,75,6.5,1000,35,barnyardmillet
+Sanarpatti ,red,130,55,75,6.5,1000,35,barnyardmillet
+M_Kallupatti ,red,135,55,75,6.5,1000,35,barnyardmillet
+T_Paraipatti ,red,140,55,75,6.5,1000,35,barnyardmillet
+Ulaipatti,black,145,55,75,6.5,1000,35,barnyardmillet
+Ulaipatti,red,150,55,75,6.5,1000,35,barnyardmillet
+Ulaipatti,red,100,60,50,7,800,25,barnyardmillet
+Mallapuram ,red,105,60,50,7,800,25,barnyardmillet
+M_Kallupatti ,red,110,60,50,7,800,25,Cotton
+M_Kallupatti ,red,115,60,50,7,800,25,Cotton
+M_Kallupatti ,black,120,60,50,7,800,25,chilly
+M_Kallupatti ,black,125,60,50,7,800,25,chilly
+M_Kallupatti ,black,130,60,50,7,800,25,Cotton
+M_Kallupatti ,red,135,60,50,7,800,25,Cotton
+M_Kallupatti ,red,140,60,50,7,800,25,corn
+M_Kallupatti ,red,145,60,50,7,800,25,Cotton
+Mallapuram,black,150,60,50,7,800,25,Cotton
+M_Kallupatti ,black,100,40,55,7.5,900,30,rice
+M_Kallupatti ,black,105,40,55,7.5,900,30,Cotton
+M_Kallupatti ,black,110,40,55,7.5,900,30,Cotton
+M_Kallupatti ,black,115,40,55,7.5,900,30,Cotton
+M_Kallupatti ,red,120,40,55,7.5,900,30,rice
+M_S_puram,red,125,40,55,7.5,900,30,rice
+M_Ayyampatti,red,130,40,55,7.5,900,30,rice
+M_Kallupatti ,black,135,40,55,7.5,900,30,rice
+Mallapuram,alluvial ,140,40,55,7.5,900,30,rice
+Mallapuram ,red,145,40,55,7.5,900,30,rice
+M_S_puram,red,150,40,55,7.5,900,30,rice
+M_S_puram,red,100,45,60,6,1000,35,rice
+M_Kallupatti ,red,105,45,60,6,1000,35,rice
+M_S_puram,red,110,45,60,6,1000,35,rice
+M_Kallupatti ,black,115,45,60,6,1000,35,rice
+M_Ayyanarpuram,red,120,45,60,6,1000,35,rice
+M_Ayyanarpuram,red,125,45,60,6,1000,35,rice
+M_Ayyanarpuram,black,130,45,60,6,1000,35,Cotton
+M_Ayyanarpuram,red,135,45,60,6,1000,35,Cotton
+M_Ayyanarpuram,black,140,45,60,6,1000,35,Cotton
+M_Ayyanarpuram,red,145,45,60,6,1000,35,corn
+M_Kallupatti ,red,150,45,60,6,1000,35,corn
+M_Ayyanarpuram,black,100,50,65,6.5,800,25,corn
+M_Ayyanarpuram,black,105,50,65,6.5,800,25,corn
+M_S_puram,red,110,50,65,6.5,800,25,corn
+M_Ayyampatti,red,115,50,65,6.5,800,25,corn
+M_Ayyanarpuram,black,120,50,65,6.5,800,25,corn
+M_S_puram,red,125,50,65,6.5,800,25,corn
+M_S_puram,red,130,50,65,6.5,800,25,corn
+M_S_puram,black,135,50,65,6.5,800,25,corn
+M_S_puram,black,140,50,65,6.5,800,25,corn
+M_S_puram,red,145,50,65,6.5,800,25,corn
+M_S_puram,black,150,50,65,6.5,800,25,corn
+M_S_puram,red,100,55,70,7,900,30,corn
+M_S_puram,red,105,55,70,7,900,30,corn
+M_S_puram,red,110,55,70,7,900,30,corn
+M_Kallupatti ,black,115,55,70,7,900,30,corn
+M_Kallupatti ,black,120,55,70,7,900,30,corn
+T_Krishnapuram,red,125,55,70,7,900,30,corn
+T_Krishnapuram,red,130,55,70,7,900,30,corn
+Thullukuttinayakanur ,red,135,55,70,7,900,30,corn
+Mallapuram,alluvial ,140,55,70,7,900,30,Cotton
+Mallaparam,red,145,55,70,7,900,30,rice
+Mallapuram,red,150,55,70,7,900,30,rice
+Mallapuram,alluvial ,100,60,75,7.5,1000,35,rice
+Mallapuram,alluvial ,105,60,75,7.5,1000,35,rice
+Mallapuram,black,110,60,75,7.5,1000,35,rice
+Mallapuram ,black,115,60,75,7.5,1000,35,rice
+Mallapuram,alluvial ,120,60,75,7.5,1000,35,rice
+Mallapuram ,red,125,60,75,7.5,1000,35,Cotton
+Mallapuram,black,130,60,75,7.5,1000,35,Cotton
+Mallapuram ,black,135,60,75,7.5,1000,35,Cotton
+Mallapuram ,black,140,60,75,7.5,1000,35,Cotton
+Mallapuram,black,145,60,75,7.5,1000,35,groundnut
+Mallapuram ,red,150,60,75,7.5,1000,35,groundnut
+Mallapuram,alluvial ,100,60,40,6,800,25,groundnut
+Mallapuram,red,105,60,40,6,800,25,groundnut
+Mallapuram ,red,110,60,40,6,800,25,groundnut
+Mallapuram ,red,115,60,40,6,800,25,groundnut
+Mallapuram ,red,120,60,40,6,800,25,groundnut
+Mallapuram ,red,100,65,45,6.5,900,30,barnyardmillet
+M_Ayyampatti,red,105,65,45,6.5,900,30,barnyardmillet
+M_Ayyampatti,red,110,65,45,6.5,900,30,barnyardmillet
+M_Ayyampatti,red,115,65,45,6.5,900,30,barnyardmillet
+M_Ayyampatti,black,120,65,45,6.5,900,30,barnyardmillet
+M_Ayyampatti,black,100,70,50,7,1000,35,barnyardmillet
+M_Ayyampatti,black,105,70,50,7,1000,35,Cotton
+M_Ayyampatti,red,110,70,50,7,1000,35,Cotton
+M_Ayyampatti,red,115,70,50,7,1000,35,Cotton
+M_Ayyampatti,red,120,70,50,7,1000,35,Cotton
+M_Ayyampatti,red,100,75,55,7.5,800,25,blackeyedpeas
+M_Ayyampatti,alluvial ,105,75,55,7.5,800,25,Cotton
+M_Ayyampatti,black,110,75,55,7.5,800,25,Cotton
+M_Ayyampatti,black,115,75,55,7.5,800,25,groundnut
+M_Ayyampatti,red,120,75,55,7.5,800,25,groundnut
+M_Ayyampatti,red,100,80,60,6,900,30,groundnut
+M_Ayyampatti,red,105,80,60,6,900,30,groundnut
+Mallapuram,black,110,80,60,6,900,30,groundnut
+M_Ayyampatti,black,115,80,60,6,900,30,groundnut
+M_Ayyampatti,black,120,80,60,6,900,30,groundnut
+M_Ayyampatti,black,100,60,65,6.5,1000,35,groundnut
+M_Ayyampatti,black,105,60,65,6.5,1000,35,groundnut
+M_Ayyampatti,red,110,60,65,6.5,1000,35,groundnut
+M_Ayyampatti,red,115,60,65,6.5,1000,35,groundnut
+M_Ayyampatti,red,120,60,65,6.5,1000,35,groundnut
+M_Ayyampatti,red,100,65,40,7,800,25,Cotton
+M_Ayyampatti,red,105,65,40,7,800,25,Cotton
+M_Ayyampatti,red,110,65,40,7,800,25,Cotton
+M_Ayyampatti,black,115,65,40,7,800,25,Cotton
+M_Ayyampatti,black,120,65,40,7,800,25,barnyardmillet
+M_Ayyampatti,red,100,70,45,7.5,900,30,barnyardmillet
+M_Ayyampatti,red,105,70,45,7.5,900,30,barnyardmillet
+M_Ayyampatti,red,110,70,45,7.5,900,30,barnyardmillet
+M_Ayyampatti,black,115,70,45,7.5,900,30,barnyardmillet
+M_Ayyampatti,black,120,70,45,7.5,900,30,barnyardmillet
+M_Ayyampatti,black,100,75,50,6,1000,35,barnyardmillet
+M_Ayyampatti,black,105,75,50,6,1000,35,Cotton
+M_Ayyampatti,red,110,75,50,6,1000,35,Cotton
+M_Ayyampatti,black,115,75,50,6,1000,35,Cotton
+M_Ayyampatti,red,120,75,50,6,1000,35,Sugarcane
+M_Ayyampatti,red,100,80,55,6.5,800,25,Sugarcane
+M_Ayyampatti,red,105,80,55,6.5,800,25,Sugarcane
+Meenakshi_Moopanpatti,red,110,80,55,6.5,800,25,Sugarcane
+Meenakshi_Moopanpatti,red,115,80,55,6.5,800,25,Sugarcane
+Meenakshi_Moopanpatti,red,120,80,55,6.5,800,25,Sugarcane
+Meenakshi_Moopanpatti,red,100,60,60,7,900,30,Sugarcane
+M_Ayyampatti,red,105,60,60,7,900,30,Sugarcane
+Meenakshi_Moopanpatti,red,110,60,60,7,900,30,Sugarcane
+Meenakshi_Moopanpatti,black,115,60,60,7,900,30,Sugarcane
+M_Ayyampatti,red,120,60,60,7,900,30,Sugarcane
+M_Ayyampatti,red,100,65,65,7.5,1000,35,Sugarcane
+M_Ayyampatti,red,105,65,65,7.5,1000,35,Sugarcane
+Somasundarapuram,red,110,65,65,7.5,1000,35,Sugarcane
+Somasundarapuram,black,115,65,65,7.5,1000,35,corn
+Somasundarapuram,red,120,65,65,7.5,1000,35,corn
+Somasundarapuram,red,100,70,40,6,800,25,corn
+Somasundarapuram,red,105,70,40,6,800,25,corn
+Somasundarapuram,red,110,70,40,6,800,25,corn
+Somasundarapuram,red,115,70,40,6,800,25,corn
+Somasundarapuram,red,120,70,40,6,800,25,corn
+Somasundarapuram,red,100,75,45,6.5,900,30,corn
+Somasundarapuram,black,105,75,45,6.5,900,30,corn
+Somasundarapuram,black,110,75,45,6.5,900,30,corn
+Ulaipatti,red,115,75,45,6.5,900,30,corn
+Ulaipatti,red,120,75,45,6.5,900,30,corn
+Soolapuram,alluvial ,100,80,50,7,1000,35,corn
+Soolapuram,black,105,80,50,7,1000,35,corn
+Ulaipatti ,black,110,80,50,7,1000,35,corn
+Ulaipatti ,red,115,80,50,7,1000,35,corn
+Ulaipatti ,red,120,80,50,7,1000,35,corn
+Ulaipatti ,red,100,60,55,7.5,800,25,corn
+Ulaipatti ,red,105,60,55,7.5,800,25,corn
+Ulaipatti ,red,110,60,55,7.5,800,25,corn
+Mallapuram ,black,115,60,55,7.5,800,25,corn
+Mallapuram ,black,120,60,55,7.5,800,25,corn
+Mallapuram ,alluvial ,100,65,60,6,900,30,corn
+Mallapuram ,red,105,65,60,6,900,30,corn
+Mallapuram ,black,110,65,60,6,900,30,corn
+Ulaipatti,red,115,65,60,6,900,30,corn
+Mallapuram ,red,120,65,60,6,900,30,corn
+Somasundarapuram ,red,100,70,65,6.5,1000,35,corn
+Somasundarapuram,red,105,70,65,6.5,1000,35,corn
+Mallapuram ,red,110,70,65,6.5,1000,35,corn
+Mallapuram,red,115,70,65,6.5,1000,35,corn
+Mallapuram ,red,120,70,65,6.5,1000,35,corn
+Mallapuram,red,100,75,40,7,800,25,corn
+Mallapuram ,black,105,75,40,7,800,25,corn
+Mallapuram ,red,110,75,40,7,800,25,corn
+Mallapuram,red,115,75,40,7,800,25,corn
+T_Krishnapuram,red,120,75,40,7,800,25,corn
+Mallapuram ,red,100,80,45,7.5,900,30,corn
+Mallapuram,alluvial ,105,80,45,7.5,900,30,corn
+Mallapuram ,black,110,80,45,7.5,900,30,corn
+Mallapuram ,red,115,80,45,7.5,900,30,corn
+Mallapuram ,alluvial ,120,80,45,7.5,900,30,corn
+Mallapuram ,alluvial ,100,60,50,6,1000,35,corn
+Mallapuram ,alluvial ,105,60,50,6,1000,35,corn
+Mallapuram ,alluvial ,110,60,50,6,1000,35,corn
+Mallapuram,alluvial ,115,60,50,6,1000,35,corn
+Mallapuram ,red,120,60,50,6,1000,35,corn
+Mallapuram ,red,100,65,55,6.5,800,25,corn
+Mallapuram ,black,105,65,55,6.5,800,25,corn
+Mallapuram ,black,110,65,55,6.5,800,25,corn
+Mallapuram ,black,115,65,55,6.5,800,25,corn
+Mallapuram ,black,120,65,55,6.5,800,25,corn
+Mallapuram ,red,100,70,60,7,900,30,corn
+Mallapuram ,red,105,70,60,7,900,30,corn
+Mallapuram ,red,110,70,60,7,900,30,corn
+Mallapuram ,red,115,70,60,7,900,30,corn
+Mallapuram ,red,120,70,60,7,900,30,corn
+Mallapuram ,red,100,75,65,7.5,1000,35,corn
+Mallapuram ,red,105,75,65,7.5,1000,35,corn
+Mallapuram ,red,110,75,65,7.5,1000,35,corn
+Ulaipatti,red,115,75,65,7.5,1000,35,rice
+Ulaipatti,red,120,75,65,7.5,1000,35,rice
+Ulaipatti,red,100,80,40,6,800,25,rice
+Ulaipatti,red,105,80,40,6,800,25,rice
+Ulaipatti,red,110,80,40,6,800,25,rice
+Ulaipatti,red,115,80,40,6,800,25,rice
+Ulaipatti,red,120,80,40,6,800,25,rice
+Ulaipatti,red,100,60,45,6.5,900,30,rice
+Ulaipatti,red,105,60,45,6.5,900,30,rice
+Ulaipatti,red,110,60,45,6.5,900,30,corn
+Ulaipatti,black,115,60,45,6.5,900,30,corn
+Ulaipatti,red,120,60,45,6.5,900,30,corn
+Ulaipatti,red,100,65,50,7,1000,35,corn
+Ulaipatti,black,105,65,50,7,1000,35,Cotton
+Soolapuram,black,110,65,50,7,1000,35,Cotton
+Soolapuram,black,115,65,50,7,1000,35,Cotton
+Soolapuram,black,120,65,50,7,1000,35,Cotton
+Soolapuram,red,100,70,55,7.5,800,25,Cotton
+Soolapuram,red,105,70,55,7.5,800,25,barnyardmillet
+Soolapuram,red,110,70,55,7.5,800,25,barnyardmillet
+Soolapuram,red,115,70,55,7.5,800,25,barnyardmillet
+Soolapuram,red,120,70,55,7.5,800,25,barnyardmillet
+Soolapuram,black,100,75,60,6,900,30,barnyardmillet
+Soolapuram,black,105,75,60,6,900,30,barnyardmillet
+Soolapuram,black,110,75,60,6,900,30,barnyardmillet
+Soolapuram,black,115,75,60,6,900,30,barnyardmillet
+Soolapuram,red,120,75,60,6,900,30,barnyardmillet
+Soolapuram,red,100,80,65,6.5,1000,35,Cotton
+Soolapuram,black,105,80,65,6.5,1000,35,Cotton
+Soolapuram,black,110,80,65,6.5,1000,35,rice
+Soolapuram,red,115,80,65,6.5,1000,35,rice
+Soolapuram,alluvial ,120,80,65,6.5,1000,35,rice
+Soolapuram,black,20,15,20,5.5,700,25,rice
+Soolapuram,red,25,15,20,5.5,700,25,rice
+Soolapuram,red,30,15,20,5.5,700,25,rice
+Soolapuram,black,20,20,25,6,800,30,corn
+Soolapuram,red,25,20,25,6,800,30,corn
+Soolapuram,red,30,20,25,6,800,30,corn
+Soolapuram,red,20,15,25,6.5,900,25,corn
+Soolapuram,black,25,15,25,6.5,900,25,corn
+Soolapuram,black,30,15,25,6.5,900,25,corn
+Soolapuram,red,20,20,20,5.5,1000,30,corn
+Soolapuram,red,25,20,20,5.5,1000,30,corn
+Soolapuram,red,30,20,20,5.5,1000,30,corn
+Soolapuram,red,25,20,30,6,700,25,barnyardmillet
+Soolapuram,black,30,20,30,6,700,25,barnyardmillet
+Soolapuram,red,35,20,30,6,700,25,barnyardmillet
+Soolapuram,red,25,25,35,6.5,800,30,barnyardmillet
+Soolapuram,red,30,25,35,6.5,800,30,barnyardmillet
+Soolapuram,black,35,25,35,6.5,800,30,groundnut
+Soolapuram,black,25,30,40,5.5,900,25,groundnut
+Soolapuram,black,30,30,40,5.5,900,25,groundnut
+Soolapuram,red,35,30,40,5.5,900,25,groundnut
+Soolapuram,red,25,20,35,6,1000,30,groundnut
+Soolapuram,red,30,20,35,6,1000,30,groundnut
+Soolapuram,red,35,20,35,6,1000,30,rice
+Soolapuram,red,25,25,40,6.5,700,25,rice
+Soolapuram,black,30,25,40,6.5,700,25,rice
+Soolapuram,red,35,25,40,6.5,700,25,rice
+Soolapuram,red,25,30,30,5.5,800,30,corn
+Soolapuram,black,30,30,30,5.5,800,30,corn
+Soolapuram,black,35,30,30,5.5,800,30,corn
+Soolapuram,red,25,20,40,6,900,25,corn
+Soolapuram,red,30,20,40,6,900,25,corn
+Soolapuram,red,35,20,40,6,900,25,corn
+Soolapuram,red,25,25,30,6.5,1000,30,corn
+T_Krishnapuram,red,30,25,30,6.5,1000,30,corn
+T_Krishnapuram,red,35,25,30,6.5,1000,30,cotton
+M_Sedapatti ,black,25,30,35,5.5,700,25,cotton
+M_Sedapatti ,black,30,30,35,5.5,700,25,cotton
+M_Sedapatti ,red,35,30,35,5.5,700,25,cotton
+M_Kallupatti ,red,100,60,40,6,500,15,chilly
+Mallapuram ,red,105,60,40,6,500,15,chilly
+Mallapuram ,red,110,60,40,6,500,15,chilly
+M_S_puram,black,115,60,40,6,500,15,chilly
+M_Kallupatti ,black,120,60,40,6,500,15,chilly
+M_Ayyampatti,red,100,65,45,6.5,600,20,chilly
+M_Perumalpatti,red,105,65,45,6.5,600,20,corn
+M_Perumalpatti,black,110,65,45,6.5,600,20,corn
+M_Perumalpatti,black,115,65,45,6.5,600,20,corn
+M_Perumalpatti,black,120,65,45,6.5,600,20,corn
+M_Perumalpatti,black,100,70,50,7,700,25,corn
+M_Perumalpatti,black,105,70,50,7,700,25,corn
+M_Perumalpatti,black,110,70,50,7,700,25,corn
+M_Perumalpatti ,alluvial ,115,70,50,7,700,25,rice
+Kunnuvarpatti ,alluvial ,120,70,50,7,700,25,rice
+Kunnuvarpatti ,red,100,75,55,7.5,800,15,rice
+Kunnuvarpatti ,red,105,75,55,7.5,800,15,rice
+Kunnuvarpatti ,black,110,75,55,7.5,800,15,rice
+Kunnuvarpatti ,red,115,75,55,7.5,800,15,rice
+Kunnuvarpatti ,red,120,75,55,7.5,800,15,rice
+Kunnuvarpatti ,red,100,80,60,6,900,20,rice
+Kunnuvarpatti ,red,105,80,60,6,900,20,barnyardmillet
+Kunnuvarpatti ,red,110,80,60,6,900,20,barnyardmillet
+Kunnuvarpatti ,red,115,80,60,6,900,20,barnyardmillet
+Kunnuvarpatti ,black,120,80,60,6,900,20,barnyardmillet
+Kunnuvarpatti ,black,100,60,45,6.5,1000,25,barnyardmillet
+Kunnuvarpatti ,red,105,60,45,6.5,1000,25,barnyardmillet
+Kunnuvarpatti ,red,110,60,45,6.5,1000,25,corn
+Kunnuvarpatti ,red,115,60,45,6.5,1000,25,corn
+Kunnuvarpatti ,alluvial ,120,60,45,6.5,1000,25,corn
+Kunnuvarpatti ,red,100,65,50,7,500,15,corn
+Soolapuram,red,105,65,50,7,500,15,corn
+Soolapuram,alluvial ,110,65,50,7,500,15,corn
+Soolapuram,red,115,65,50,7,500,15,corn
+Soolapuram,red,120,65,50,7,500,15,corn
+Soolapuram,red,100,70,55,7.5,600,20,corn
+Soolapuram,red,105,70,55,7.5,600,20,cotton
+Kunnuvarpatti ,red,110,70,55,7.5,600,20,cotton
+Soolapuram ,alluvial ,115,70,55,7.5,600,20,cotton
+Soolapuram ,red,120,70,55,7.5,600,20,blackeyedpeas
+Kunnuvarpatti ,black,100,75,60,6,700,25,blackeyedpeas
+Kunnuvarpatti ,red,105,75,60,6,700,25,blackeyedpeas
+Kunnuvarpatti ,red,110,75,60,6,700,25,blackeyedpeas
+Chellayeepuram,black,115,75,60,6,700,25,corn
+Chellayeepuram,alluvial ,120,75,60,6,700,25,corn
+Chellayeepuram,black,100,80,40,6.5,800,15,corn
+Chellayeepuram,black,105,80,40,6.5,800,15,corn
+Chellayeepuram,red,110,80,40,6.5,800,15,corn
+Chellayeepuram,red,115,80,40,6.5,800,15,corn
+Chellayeepuram,red,120,80,40,6.5,800,15,corn
+Chellayeepuram,red,100,60,50,7,900,20,corn
+Chellayeepuram,red,105,60,50,7,900,20,corn
+Chellayeepuram,red,110,60,50,7,900,20,corn
+Chellayeepuram,red,115,60,50,7,900,20,corn
+Chellayeepuram,black,120,60,50,7,900,20,corn
+Chellayeepuram,black,100,65,55,7.5,1000,25,rice
+Seelnaickanpatty,black,105,65,55,7.5,1000,25,rice
+Seelnaickanpatty,black,110,65,55,7.5,1000,25,barnyardmillet
+Seelnaickanpatty,black,115,65,55,7.5,1000,25,barnyardmillet
+Seelnaickanpatty,black,120,65,55,7.5,1000,25,barnyardmillet
+Seelnaickanpatty,black,100,70,60,6,500,15,barnyardmillet
+Seelnaickanpatty,black,105,70,60,6,500,15,chilly
+Seelnaickanpatty,black,110,70,60,6,500,15,chilly
+Seelnaickanpatty,black,115,70,60,6,500,15,rice
+Seelnaickanpatty,red,120,70,60,6,500,15,rice
+Seelnaickanpatty,red,100,75,40,6.5,600,20,rice
+Seelnaickanpatty,black,105,75,40,6.5,600,20,rice
+Seelnaickanpatty,black,110,75,40,6.5,600,20,rice
+Seelnaickanpatty,red,115,75,40,6.5,600,20,rice
+Seelnaickanpatty,black,120,75,40,6.5,600,20,rice
+Seelnaickanpatty,red,100,80,45,7,700,25,rice
+Seelnaickanpatty,red,105,80,45,7,700,25,corn
+Seelnaickanpatty,red,110,80,45,7,700,25,corn
+Seelnaickanpatty,black,115,80,45,7,700,25,corn
+Seelnaickanpatty,black,120,80,45,7,700,25,corn
+Seelnaickanpatty,alluvial ,100,60,55,7.5,800,15,corn
+Seelnaickanpatty,red,105,60,55,7.5,800,15,corn
+Seelnaickanpatty,red,110,60,55,7.5,800,15,corn
+Seelnaickanpatty,red,115,60,55,7.5,800,15,corn
+Seelnaickanpatty,red,120,60,55,7.5,800,15,corn
+Seelnaickanpatty,red,100,65,60,6,900,20,corn
+Seelnaickanpatty,red,105,65,60,6,900,20,barnyardmillet
+Seelnaickanpatty,red,110,65,60,6,900,20,barnyardmillet
+Seelnaickanpatty,red,115,65,60,6,900,20,barnyardmillet
+Seelnaickanpatty,red,120,65,60,6,900,20,barnyardmillet
+Seelnaickanpatty,red,100,70,40,6.5,1000,25,groundnut
+Seelnaickanpatty,red,105,70,40,6.5,1000,25,groundnut
+Seelnaickanpatty,red,110,70,40,6.5,1000,25,groundnut
+Seelnaickanpatty,red,115,70,40,6.5,1000,25,groundnut
+Seelnaickanpatty,red,120,70,40,6.5,1000,25,groundnut
+Seelnaickanpatty,red,100,75,45,7,500,15,corn
+Seelnaickanpatty,black,105,75,45,7,500,15,corn
+Seelnaickanpatty,red,110,75,45,7,500,15,corn
+Seelnaickanpatty,alluvial ,115,75,45,7,500,15,corn
+Seelnaickanpatty,red,120,75,45,7,500,15,corn
+Seelnaickanpatty,red,100,80,50,7.5,600,20,corn
+Seelnaickanpatty,black,105,80,50,7.5,600,20,groundnut
+Seelnaickanpatty,black,110,80,50,7.5,600,20,groundnut
+Seelnaickanpatty,red,115,80,50,7.5,600,20,cotton
+Seelnaickanpatty,black,120,80,50,7.5,600,20,cotton
+Seelnaickanpatty,black,100,60,60,6,700,25,cotton
+Seelnaickanpatty,black,105,60,60,6,700,25,Sugarcane
+Seelnaickanpatty,red,110,60,60,6,700,25,Sugarcane
+Seelnaickanpatty,red,115,60,60,6,700,25,Sugarcane
+Seelnaickanpatty,black,120,60,60,6,700,25,Sugarcane
+Seelnaickanpatty,black,100,65,40,6.5,800,15,Sugarcane
+Seelnaickanpatty,red,105,65,40,6.5,800,15,rice
+Allamanaickanpatti,red,110,65,40,6.5,800,15,rice
+Allamanaickanpatti,red,115,65,40,6.5,800,15,rice
+Allamanaickanpatti,red,120,65,40,6.5,800,15,rice
+Allamanaickanpatti,red,100,70,45,7,900,20,rice
+Allamanaickanpatti,red,105,70,45,7,900,20,rice
+Allamanaickanpatti,alluvial ,110,70,45,7,900,20,rice
+Allamanaickanpatti,red,115,70,45,7,900,20,corn
+Allamanaickanpatti,red,120,70,45,7,900,20,corn
+Allamanaickanpatti,black,100,75,50,7.5,1000,25,corn
+Allamanaickanpatti,alluvial ,105,75,50,7.5,1000,25,corn
+Allamanaickanpatti,red,110,75,50,7.5,1000,25,corn
+Allamanaickanpatti,red,115,75,50,7.5,1000,25,cotton
+Allamanaickanpatti,alluvial ,120,75,50,7.5,1000,25,cotton
+Allamanaickanpatti,alluvial ,100,80,55,6,500,15,cotton
+Allamanaickanpatti,red,105,80,55,6,500,15,barnyardmillet
+Allamanaickanpatti,red,110,80,55,6,500,15,barnyardmillet
+Allamanaickanpatti,black,115,80,55,6,500,15,barnyardmillet
+Allamanaickanpatti,red,120,80,55,6,500,15,barnyardmillet
+Allamanaickanpatti,black,100,40,40,6,500,15,barnyardmillet
+Allamanaickanpatti,black,105,40,40,6,500,15,groundnut
+Allamanaickanpatti,red,110,40,40,6,500,15,rice
+Allamanaickanpatti,black,115,40,40,6,500,15,rice
+Allamanaickanpatti,black,120,40,40,6,500,15,rice
+Allamanaickanpatti,red,100,45,45,6.5,600,20,rice
+Allamanaickanpatti,red,105,45,45,6.5,600,20,rice
+Allamanaickanpatti,red,110,45,45,6.5,600,20,corn
+Allamanaickanpatti,red,115,45,45,6.5,600,20,corn
+Allamanaickanpatti,red,120,45,45,6.5,600,20,rice
+Allamanaickanpatti,red,100,50,50,7,700,25,rice
+Allamanaickanpatti,red,105,50,50,7,700,25,corn
+Allamanaickanpatti,red,110,50,50,7,700,25,corn
+Allamanaickanpatti,red,115,50,50,7,700,25,corn
+Allamanaickanpatti,red,120,50,50,7,700,25,corn
+Allamanaickanpatti,black,100,55,55,7.5,800,15,corn
+Allamanaickanpatti,red,105,55,55,7.5,800,15,corn
+Allamanaickanpatti,red,110,55,55,7.5,800,15,cotton
+Nagamannayarakpatti,red,115,55,55,7.5,800,15,cotton
+Nagamanaickanpatti,red,120,55,55,7.5,800,15,cotton
+Nagamanaicnpatti,red,100,60,60,6,900,20,cotton
+Allamanaickanpatti,black,105,60,60,6,900,20,barnyardmillet
+Allamanaickanpatti,black,110,60,60,6,900,20,cotton
+Nagamanaickanpatti,red,115,60,60,6,900,20,cotton
+Elumalai,red,120,60,60,6,900,20,cotton
+Nagamanaickanpatti,red,100,40,45,6.5,1000,25,blackeyedpeas
+Nagamanaickanpatti,red,105,40,45,6.5,1000,25,blackeyedpeas
+Nagamanaickanpatti,red,110,40,45,6.5,1000,25,blackeyedpeas
+Allamanaickanpatti,black,115,40,45,6.5,1000,25,blackeyedpeas
+Nagamanaickanpatti,red,120,40,45,6.5,1000,25,corn
+Nagamanaickanpatti,red,100,45,50,7,500,15,corn
+Nagamanaickanpatti,red,105,45,50,7,500,15,corn
+Nagamanaickanpatti,red,110,45,50,7,500,15,corn
+Nagamanaickanpatti,red,115,45,50,7,500,15,corn
+Nagamanaickanpatti,red,120,45,50,7,500,15,corn
+Nagamanaickanpatti,red,100,50,55,7.5,600,20,corn
+Nagamanaickanpatti,red,105,50,55,7.5,600,20,rice
+Nagamanaickanpatti,red,110,50,55,7.5,600,20,rice
+Nagamanaickanpatti,red,115,50,55,7.5,600,20,rice
+Nagamanaickanpatti,red,120,50,55,7.5,600,20,rice
+Nagamanaickanpatti,black,100,55,60,6,700,25,rice
+Nagamanaickanpatti,red,105,55,60,6,700,25,rice
+Nagamanaickanpatti,red,110,55,60,6,700,25,rice
+Nagamanaickanpatti,black,115,55,60,6,700,25,rice
+Nagamanaickanpatti,red,120,55,60,6,700,25,barnyardmillet
+Nagamannayarakpatti,red,100,60,40,6.5,800,15,barnyardmillet
+Nagamanaicnpatti,red,105,60,40,6.5,800,15,barnyardmillet
+Nagamanaickanpatti,red,110,60,40,6.5,800,15,barnyardmillet
+Nagamanaickanpatti,black,115,60,40,6.5,800,15,corn
+Naganiakam puram,red,120,60,40,6.5,800,15,corn
+Allamanaickanpatti,red,100,40,50,7,900,20,corn
+Nagamanaicnpatti,red,105,40,50,7,900,20,corn
+Nagamanaickanpatti,red,110,40,50,7,900,20,corn
+Nagamanaickanpatti,black,115,40,50,7,900,20,corn
+Allamanaickanpatti,red,120,40,50,7,900,20,corn
+Nagamanaicnpatti,red,100,45,55,7.5,1000,25,cotton
+Allamanaickanpatti,red,105,45,55,7.5,1000,25,rice
+Allamanaickanpatti,black,110,45,55,7.5,1000,25,rice
+Nagamanaickanpatti,black,115,45,55,7.5,1000,25,rice
+E_Peraiyampatti,red,120,45,55,7.5,1000,25,rice
+Elumalai,red,100,50,60,6,500,15,rice
+Allamanaickanpatti,black,105,50,60,6,500,15,rice
+E_Peraiyampatti,red,110,50,60,6,500,15,corn
+E_Perumalpatti,black,115,50,60,6,500,15,corn
+E_Peraiyampatti,red,120,50,60,6,500,15,corn
+E_Peraiyampatti,red,100,55,40,6.5,600,20,rice
+E_Peraiyampatti,red,105,55,40,6.5,600,20,rice
+E_Peraiyampatti,alluvial ,110,55,40,6.5,600,20,rice
+E_Peraiyampatti,black,115,55,40,6.5,600,20,cotton
+E_Peraiyampatti,black,120,55,40,6.5,600,20,cotton
+E_Peraiyampatti,black,100,60,45,7,700,25,groundnut
+E_Peraiyampatti,black,105,60,45,7,700,25,barnyardmillet
+E_Peraiyampatti,red,110,60,45,7,700,25,corn
+E_Peraiyampatti,red,115,60,45,7,700,25,corn
+E_Peraiyampatti,red,120,60,45,7,700,25,corn
+E_Peraiyampatti,alluvial ,100,40,55,7.5,800,15,corn
+E_Peraiyampatti,red,105,40,55,7.5,800,15,corn
+E_Peraiyampatti,black,110,40,55,7.5,800,15,corn
+E_Peraiyampatti,red,115,40,55,7.5,800,15,corn
+E_Peraiyampatti,red,120,40,55,7.5,800,15,rice
+E_Peraiyampatti,red,100,45,60,6,900,20,rice
+E_Peraiyampatti,red,105,45,60,6,900,20,rice
+E_Peraiyampatti,black,110,45,60,6,900,20,rice
+E_Peraiyampatti,black,115,45,60,6,900,20,rice
+E_Peraiyampatti,black,120,45,60,6,900,20,cotton
+E_Peraiyampatti,red,100,50,40,6.5,1000,25,cotton
+E_Peraiyampatti,red,105,50,40,6.5,1000,25,cotton
+E_Peraiyampatti,red,110,50,40,6.5,1000,25,cotton
+E_Peraiyampatti,red,115,50,40,6.5,1000,25,cotton
+E_Peraiyampatti,black,120,50,40,6.5,1000,25,corn
+E_Peraiyampatti,red,100,55,45,7,500,15,corn
+E_Peraiyampatti,red,105,55,45,7,500,15,corn
+E_Peraiyampatti,red,110,55,45,7,500,15,corn
+E_Peraiyampatti,red,115,55,45,7,500,15,corn
+E_Peraiyampatti,red,120,55,45,7,500,15,corn
+E_Perumalpatti ,red,100,60,50,7.5,600,20,corn
+E_Perumalpatti ,black,105,60,50,7.5,600,20,barnyardmillet
+E_Perumalpatti ,red,110,60,50,7.5,600,20,barnyardmillet
+E_Perumalpatti ,red,115,60,50,7.5,600,20,barnyardmillet
+E_Perumalpatti ,red,120,60,50,7.5,600,20,barnyardmillet
+E_Perumalpatti ,red,100,40,60,6,700,25,barnyardmillet
+E_Perumalpatti ,red,105,40,60,6,700,25,groundnut
+E_Perumalpatti ,red,110,40,60,6,700,25,groundnut
+E_Perumalpatti ,red,115,40,60,6,700,25,groundnut
+E_Perumalpatti ,alluvial ,120,40,60,6,700,25,groundnut
+E_Perumalpatti ,red,100,45,40,6.5,800,15,corn
+E_Perumalpatti ,black,105,45,40,6.5,800,15,corn
+E_Perumalpatti ,red,110,45,40,6.5,800,15,corn
+E_Perumalpatti ,alluvial ,115,45,40,6.5,800,15,corn
+E_Perumalpatti ,red,120,45,40,6.5,800,15,corn
+E_Perumalpatti ,red,100,50,45,7,900,20,corn
+E_Perumalpatti ,red,105,50,45,7,900,20,blackeyedpeas
+E_Perumalpatti ,black,110,50,45,7,900,20,blackeyedpeas
+E_Perumalpatti ,alluvial ,115,50,45,7,900,20,blackeyedpeas
+E_Perumalpatti ,red,120,50,45,7,900,20,blackeyedpeas
+,,,,,,,,
